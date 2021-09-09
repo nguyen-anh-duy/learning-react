@@ -1,5 +1,5 @@
 import React from 'react'
-// abc
+
 export default function Loading() {
     return (
         <div>
